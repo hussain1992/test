@@ -1,0 +1,9 @@
+check remotes  .>>>>>>>>>>>>>> git remote 
+remove the remote>>>>>>>>>>>.  git remote remove <>
+forced push >>>>>>>>>>>>>>> git push -f origin master
+to add file/folder .>>>>>>>>>>>>git add <>
+to add all files/folders >>>>>>> git add .
+to commit files with comment >>>>>>>>> git commit -m "----"
+to Auth >>>>>>>>>>>>>>>>>>>>>>git config --global user.email "hussain.dheeravath@zoetis.com"
+					git config --global user.name "DHEERAVH"
+intialization of git >>>>>>>>>>> git init   

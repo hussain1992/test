@@ -1,0 +1,17 @@
+ERROR	
+	Error: error:0308010C:digital envelope routines::unsupported
+	##[warning]Couldn't find a debug log in the cache or working directory
+	##[error]Error: Npm failed with return code: 1
+
+SOLUTION:
+GO TO package.json file and change build value to this 
+
+	
+"build": "mkdirp dist\\zoetis-zcs && node --openssl-legacy-provider --max_old_space_size=8192 node_modules/@angular/cli/bin/ng build",
+
+or 
+
+
+"build":"node --openssl-legacy-provider --max_old_space_size=8192 node_modules/@angular/cli/bin/ng build --prod",
+
+    

@@ -1,0 +1,7 @@
+Moose 2.6 source code for support and beta >>>>>>>>>>> MP-S-WebAPP-2.2(Pipeline)>>>>>>>>>>>>>> MP-S-WebAPP-2.5-Release (Release)
+2.6.** ------------ > moose-mp-support-webapp  -------  >Ranjith ---->
+
+Moose Deployment 2.7 Sprint 2 >>>>>>>>>>>>>>>>>>>>>>>>MP-WebAPP-2.6(Pipeline) >>>>>>>>>>>>>>>>>>MP-WebAPP-2.6-Release (Release)
+2.7.** ------------>Moose-AngularProject -------------> Parvaz
+
+

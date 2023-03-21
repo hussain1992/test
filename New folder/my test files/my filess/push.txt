@@ -1,0 +1,26 @@
+download the source code
+extract the zip file
+right click on the extracted file and go to git bash here
+
+
+git init             --- come to master
+
+git add .
+
+git commit -m "----"
+git config --global user.email "hussain.dheeravath@zoetis.com"
+git config --global user.name "DHEERAVH"
+
+	###  git branch 	>>>>>>>>>>>>> to the the branches available
+	### git branch <branch name	> >>>>>>>>>>>>>>>> to add a branch
+	### git checkout <branch name>  >>>>>>>>>>>>>>>  to change the branch
+	###git checkout -b myBranch commit
+			### git add .
+
+				git commit -m "----"   (it is for new branch login)
+
+git remote add origin   <repo url>
+git push --set-upstream origin master
+
+
+git push -f origin master
